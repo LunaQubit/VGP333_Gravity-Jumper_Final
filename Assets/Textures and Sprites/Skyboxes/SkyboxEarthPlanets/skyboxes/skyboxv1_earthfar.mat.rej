@@ -1,0 +1,92 @@
+diff a/VGP333_GravityJumperPhysicsTest/Assets/Skyboxes/SkyboxEarthPlanets/skyboxes/skyboxv1_earthfar.mat b/VGP333_GravityJumperPhysicsTest/Assets/Skyboxes/SkyboxEarthPlanets/skyboxes/skyboxv1_earthfar.mat	(rejected hunks)
+@@ -82,42 +82,90 @@
+         first:
+           name: _FrontTex
+         second:
++<<<<<<< HEAD
++<<<<<<< HEAD
++          m_Texture: {fileID: 2800000, guid: 891aa9a33e05af943b5384a25aa89145, type: 3}
++=======
+           m_Texture: {fileID: 2800000, guid: f324fc7fa1c9c4b45816982d03979d11, type: 3}
++>>>>>>> origin/master
++=======
++          m_Texture: {fileID: 2800000, guid: f324fc7fa1c9c4b45816982d03979d11, type: 3}
++>>>>>>> 7b4255a1102f56834cb27ab8f961b3ecd04ffa8c
+           m_Scale: {x: 1, y: 1}
+           m_Offset: {x: 0, y: 0}
+       data:
+         first:
+           name: _BackTex
+         second:
++<<<<<<< HEAD
++<<<<<<< HEAD
++          m_Texture: {fileID: 2800000, guid: aa9b5c7ea420eb8478150674eea258e1, type: 3}
++=======
++          m_Texture: {fileID: 2800000, guid: fcc8b5bbf0d078542b3021190163e770, type: 3}
++>>>>>>> origin/master
++=======
+           m_Texture: {fileID: 2800000, guid: fcc8b5bbf0d078542b3021190163e770, type: 3}
++>>>>>>> 7b4255a1102f56834cb27ab8f961b3ecd04ffa8c
+           m_Scale: {x: 1, y: 1}
+           m_Offset: {x: 0, y: 0}
+       data:
+         first:
+           name: _LeftTex
+         second:
++<<<<<<< HEAD
++<<<<<<< HEAD
++          m_Texture: {fileID: 2800000, guid: e10ff73f8481fcc4299215c90e5f06cb, type: 3}
++=======
++          m_Texture: {fileID: 2800000, guid: 55b511e00f548fd47a0a379e99e6a79f, type: 3}
++>>>>>>> origin/master
++=======
+           m_Texture: {fileID: 2800000, guid: 55b511e00f548fd47a0a379e99e6a79f, type: 3}
++>>>>>>> 7b4255a1102f56834cb27ab8f961b3ecd04ffa8c
+           m_Scale: {x: 1, y: 1}
+           m_Offset: {x: 0, y: 0}
+       data:
+         first:
+           name: _RightTex
+         second:
++<<<<<<< HEAD
++<<<<<<< HEAD
++          m_Texture: {fileID: 2800000, guid: 71e1f14cdc372a8458b6b6f054461722, type: 3}
++=======
+           m_Texture: {fileID: 2800000, guid: f3fc05e46c41e7f46859d933f35f9a33, type: 3}
++>>>>>>> origin/master
++=======
++          m_Texture: {fileID: 2800000, guid: f3fc05e46c41e7f46859d933f35f9a33, type: 3}
++>>>>>>> 7b4255a1102f56834cb27ab8f961b3ecd04ffa8c
+           m_Scale: {x: 1, y: 1}
+           m_Offset: {x: 0, y: 0}
+       data:
+         first:
+           name: _UpTex
+         second:
++<<<<<<< HEAD
++<<<<<<< HEAD
++          m_Texture: {fileID: 2800000, guid: 2688bb6ffd5290242893370ea041c82b, type: 3}
++=======
++          m_Texture: {fileID: 2800000, guid: 11ecc0d84fb244a46a1d560db36db5ad, type: 3}
++>>>>>>> origin/master
++=======
+           m_Texture: {fileID: 2800000, guid: 11ecc0d84fb244a46a1d560db36db5ad, type: 3}
++>>>>>>> 7b4255a1102f56834cb27ab8f961b3ecd04ffa8c
+           m_Scale: {x: 1, y: 1}
+           m_Offset: {x: 0, y: 0}
+       data:
+         first:
+           name: _DownTex
+         second:
++<<<<<<< HEAD
++<<<<<<< HEAD
++          m_Texture: {fileID: 2800000, guid: df5e1454ba6166447bd48aa12df5efdb, type: 3}
++=======
++          m_Texture: {fileID: 2800000, guid: 928419d38bfb5274ca6c32188ea2c950, type: 3}
++>>>>>>> origin/master
++=======
+           m_Texture: {fileID: 2800000, guid: 928419d38bfb5274ca6c32188ea2c950, type: 3}
++>>>>>>> 7b4255a1102f56834cb27ab8f961b3ecd04ffa8c
+           m_Scale: {x: 1, y: 1}
+           m_Offset: {x: 0, y: 0}
+     m_Floats:

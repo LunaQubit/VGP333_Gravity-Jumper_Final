@@ -1,0 +1,10 @@
+GameManager	:6/9
+DeathZone	:Done
+LevelTimer	:Done
+JumpCount	:4	//Think this is done in character controller, not sure
+CollectableObj	:Done
+LevelSystem	:Done
+CoinScore	:Done
+AiSpawner	:Done
+Life+		:Done
+MessageSystem:	:2 ~
